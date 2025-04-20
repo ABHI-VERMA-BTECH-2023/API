@@ -7,5 +7,3 @@ const promise = new Promise((resolve, reject)=>{
 });
 
 promise.then(()=>{console.log("Sucessfuly done")})
-
-/workspaces/API/API/API.js
